@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ivuzf2.hartawin.online/sitemap.xml
